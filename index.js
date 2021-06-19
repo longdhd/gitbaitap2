@@ -8,4 +8,4 @@ var Feature2 = function (){
     console.log('done f2');
 }
 
-console.log('done')
+console.log('done All')
