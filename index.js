@@ -1,3 +1,3 @@
 var Feature2 = function (){
-    console.log('f2');
+    console.log('done f2');
 }
