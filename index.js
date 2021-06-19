@@ -1,4 +1,4 @@
 var Feature1 = function (){
-    console.log('f1');
+    console.log('done f1');
 }
 
